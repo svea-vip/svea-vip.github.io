@@ -1,2 +1,2 @@
 # svea-vip.github.io
-GitHub 站点静态资源
+GitHub Page 静态资源站点
